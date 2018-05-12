@@ -1,0 +1,43 @@
+_repo: Jerry-s-Charge-Account_27211
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Geer, Charles
+    alias: Geer, Charles Hand
+    gutenberg_agent_id: '32949'
+    url: http://www.gutenberg.org/2009/agents/32949
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Hazel Hutchins
+    aliases:
+    - Hutchins, Hazel
+    - Wilson, H. H. (Hazel Hutchins)
+    birthdate: 1898
+    deathdate: 1992
+    gutenberg_agent_id: '32948'
+    url: http://www.gutenberg.org/2009/agents/32948
+description: Jerry noticed that the grocer gave his charge customers candy on the
+  days they paid their monthly bill, and he wished that his mother wouldn't pay cash.
+  So he decided that he would keep the cash when he went to the store, charge the
+  groceries, and get the candy when he had to pay the bill, and nobody would lose.
+  But it wasn't as easy as Jerry thought to store all of the money.
+gutenberg_issued: '2008-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27211'
+  lccn: '60005877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Charge accounts -- Juvenile fiction'
+- !lcsh 'Grocery shopping -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+title: Jerry's Charge Account
+url: http://www.gutenberg.org/ebooks/27211
